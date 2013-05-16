@@ -1,0 +1,11 @@
+<eveapi version="2">
+  <currentTime>2013-05-15 20:19:27</currentTime>
+  <result>
+    <key accessMask="134217727" type="Account" expires="">
+      <rowset name="characters" key="characterID" columns="characterID,characterName,corporationID,corporationName">
+        <row characterID="197034586" characterName="Devilen" corporationID="98180021" corporationName="Worm-Tech Inc."/>
+      </rowset>
+    </key>
+  </result>
+  <cachedUntil>2013-05-15 20:24:08</cachedUntil>
+</eveapi>
